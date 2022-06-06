@@ -1,6 +1,6 @@
 # E-commerce-Store-Data-Analysis-Yearly
 
-This is a predictive data analysis project based on E-commerce Store Open Source Data. 
+This is a predictive data analysis & data visualization project based on E-commerce Store Open Source Data. 
 
 ** Ultimate goals to achieve with this E-commerce open source data.   
 Questions:
