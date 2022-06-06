@@ -22,11 +22,14 @@ Data Source: Open Data Source.
 Data Timeline = 2010 - 2012  
 
 Process:   
-==> LOADING DATA: Data Cleaning, Data Validation,  Data Modification  
+==> LOADING DATA: 
+Data Cleaning, Data Validation,  Data Modification  
 
-==> CALCUALTED FEILDS &amp; FUNCTIONS: Adding Calculated Fields, Visualization Objectives, Using Functions, Pivot Tables and Sorting  
+==> CALCUALTED FEILDS &amp; FUNCTIONS: 
+Adding Calculated Fields, Visualization Objectives, Using Functions, Pivot Tables and Sorting  
 
-==> BLENDING DATA &amp; MAPS: Adding and Blending Data [ Ecommerce-Data.csv &amp; US holidays.csv ], Left Join [ Ecommerce-Data.csv &amp; US holidays.csv ], Finding Null Values, CONTROLS AND FILTERS, Date Controls, Comparing Dates, Drop Down Filter, Maps Integration   
+==> BLENDING DATA &amp; MAPS: 
+Adding and Blending Data [ Ecommerce-Data.csv &amp; US holidays.csv ], Left Join [ Ecommerce-Data.csv &amp; US holidays.csv ], Finding Null Values, CONTROLS AND FILTERS, Date Controls, Comparing Dates, Drop Down Filter, Maps Integration   
 
 
  
