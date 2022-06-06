@@ -6,6 +6,8 @@ Where the orders are coming from?
 What day do we make the most average revenue/ money?
 What products make the most revenue/ money? 
 
+Dashboard Link: https://datastudio.google.com/reporting/f92f2f4c-d569-4ecb-815b-8c3e1d74d3a6
+
 Tools &amp; Extension used: 
 Google Data Studio,  
 Google Spreadsheet, Excel  
