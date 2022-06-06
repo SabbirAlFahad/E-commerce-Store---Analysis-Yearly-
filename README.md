@@ -3,8 +3,8 @@
 Ultimate goals to achieve with this E-commerce open source data.   
 How we are doing yearly?  
 Where the orders are coming from?  
-What day do we make the most average revenue?
-What products make the most revenue/money? 
+What day do we make the most average revenue/ money?
+What products make the most revenue/ money? 
 
 Tools &amp; Extension used: 
 Google Data Studio,  
