@@ -1,6 +1,8 @@
 # E-commerce-Store-Data-Analysis-Yearly
 
-Ultimate goals to achieve with this E-commerce open source data.   
+This is a predictive analysis project based on E-commerce Store Open Source Data. 
+
+** Ultimate goals to achieve with this E-commerce open source data.   
 Questions:
 How we are doing yearly?  
 Where the orders are coming from?  
@@ -8,7 +10,8 @@ What day do we make the most average revenue/ money?
 What products make the most revenue/ money? 
 
 Answer:
-Interactive Dashboard Link: https://datastudio.google.com/reporting/f92f2f4c-d569-4ecb-815b-8c3e1d74d3a6
+Interactive Dashboard Link: https://datastudio.google.com/reporting/f92f2f4c-d569-4ecb-815b-8c3e1d74d3a6 
+Report also attached in this repository.
 
 Tools &amp; Extension used: 
 Google Data Studio,  
