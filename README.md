@@ -10,6 +10,7 @@ Tools &amp; Extension used:
 Google Data Studio,  
 Google Spreadsheet, Excel  
 Coupler.io [Google Workspace Marketplace] 
+
 Data Source: Open Data Source. 
 Data Timeline = 2010 - 2012  
 
